@@ -8,3 +8,7 @@
 !/01-docker-terraform/
 /01-docker-terraform/*
 !/01-docker-terraform/Homework
+
+!/02-workflow-orchestration/
+/02-workflow-orchestration/*
+!/02-workflow-orchestration/Homework
