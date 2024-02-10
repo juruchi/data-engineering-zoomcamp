@@ -12,3 +12,7 @@
 !/02-workflow-orchestration/
 /02-workflow-orchestration/*
 !/02-workflow-orchestration/Homework
+
+!/03-data-warehouse/
+/03-data-warehouse/*
+!/03-data-warehouse/Homework
